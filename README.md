@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">I`m passionate Frontend Developer from Uzbekistan</h3>
-<p align=“right”> <img alt=“Coding” width=“400px” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”/> </p>
+<img align=“right” alt=“Coding” width=“400px” src=“[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john122122&label=Profile%20views&color=0e75b6&style=flat" alt="john122122" /> </p>
 
